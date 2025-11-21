@@ -1,0 +1,2 @@
+This is sample file created by Node js
+ yes it is copied data 
